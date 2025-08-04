@@ -32,17 +32,18 @@ This project contains **three beginner-to-intermediate Python projects** that co
 > Screenshots captured while running each project.
 
 ### 📸 Task 1 Output:
-<img src="task1_output.png" width="600">
+<img src="task1.png" width="600">
 
 ---
 
 ### 📸 Task 2 Output:
-<img src="task2_gui.png" width="600">
+<img src="task2.png" width="600">
 
 ---
 
 ### 📸 Task 3 Output:
-<img src="task3_output.png" width="600">
+<img src="task3.1.png" width="600">
+<img src="task3.2.png" width="600">
 
 ---
 
