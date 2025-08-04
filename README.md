@@ -2,7 +2,7 @@
 
 <p align="center">
   <b>👩‍💻 Author:</b> Neha Behere <br>
-  <b>📅 Internship Month:</b> July 2025 <br>
+  <b>📅 Internship Month:</b> August 2025 <br>
   <b>🔐 Organization:</b> <a href="https://www.codsoft.in">CodSoft</a> <br>
   <b>💻 Domain:</b> Python Development
 </p>
@@ -52,10 +52,10 @@ Make sure Python 3.x is installed on your system.
 
 ```bash
 # Run Task 1
-python task1_password_generator.py
+python pass_gen.py
 
 # Run Task 2
-python task2_rock_paper_scissors_gui.py
+python rps_gui.py
 
 # Run Task 3
-python task3_contact_book.py
+python contact_book.py
