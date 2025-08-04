@@ -1,7 +1,7 @@
 # Task 2 - Password Generator App 🔐
 # CodSoft Python Internship Project
 # Author: Neha Behere
-# Date: July 2025
+# Date: August 2025
 
 import random
 import string
